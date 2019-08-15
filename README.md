@@ -1,4 +1,4 @@
-## Usefull links for front-end development :rocket:
+## Useful links for front-end development :rocket:
 
 * Libs and components
   * [React components and design systems awesome-react-components](https://github.com/brillout/awesome-react-components)
