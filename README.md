@@ -14,3 +14,4 @@
   * [HTML symbols](https://www.htmlsymbols.xyz/unicode/U+1F9E1)
   * Mock HTTP responses to test REST API - [mocky.io](https://www.mocky.io/)
   * Image minification - [tinypng](https://tinypng.com/)
+  * [Online photoshop](https://photoshop-online.biz/edit_photo/)
