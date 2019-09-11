@@ -15,4 +15,5 @@
   * Mock HTTP responses to test REST API - [mocky.io](https://www.mocky.io/)
   * Image minification - [tinypng](https://tinypng.com/)
   * [Online photoshop](https://photoshop-online.biz/edit_photo/)
+  * Check browsers support - [caniuse](https://caniuse.com/)
   * Caniuse for email - [caniemail](https://www.caniemail.com/)
