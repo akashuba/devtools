@@ -17,4 +17,4 @@
   * [Online photoshop](https://photoshop-online.biz/edit_photo/)
   * Check browsers support - [caniuse](https://caniuse.com/)
   * Caniuse for email - [caniemail](https://www.caniemail.com/)
-  * Proxy servers - [hidemy.name](https://hidemy.name/ru/proxy-list/)
+  * Proxy servers - [hidemy.name](https://hidemy.name/ru/proxy-list/) :squirrel:
