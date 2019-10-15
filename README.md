@@ -18,3 +18,6 @@
   * Check browsers support - [caniuse](https://caniuse.com/)
   * Caniuse for email - [caniemail](https://www.caniemail.com/)
   * Proxy servers - [hidemy.name](https://hidemy.name/ru/proxy-list/) :squirrel:
+* Books and articles
+  * Addy Osmani - [Learning JavaScript Design Patterns](https://caniuse.com/)
+  * Kyle Simpson - [You-Dont-Know-JS](https://caniuse.com/)
