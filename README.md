@@ -21,3 +21,5 @@
 * Books and articles
   * Addy Osmani - [Learning JavaScript Design Patterns](https://caniuse.com/)
   * Kyle Simpson - [You-Dont-Know-JS](https://caniuse.com/)
+  * Tomáš Gold -
+ [SOLID in Rract](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
