@@ -23,3 +23,4 @@
   * Kyle Simpson - [You-Dont-Know-JS](https://caniuse.com/)
   * Tomáš Gold -
  [SOLID in Rract](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
+  * 13 useful JavaScript [array tips and tricks](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo)
