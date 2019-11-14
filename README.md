@@ -6,6 +6,7 @@
   * Сarousel and slider for react - [react-slick](https://react-slick.neostack.com/)
 * Debug
   * Access to local host - [Ngrok](https://ngrok.com/)
+  * HTTP proxy / HTTP monitor [charles](https://www.charlesproxy.com/)
   * mobile
     * Remote debugging mobile device - [Weinre](http://people.apache.org/~pmuellr/weinre/docs/latest/Running.html), 
       [how to use weinre](http://www.codeblocq.com/2016/03/Remote-Web-Debugging-with-weinre/):suspect:
