@@ -4,6 +4,7 @@
   * React components and design systems - [awesome-react-components](https://github.com/brillout/awesome-react-components)
   * React components collection - [react.rocks](https://react.rocks/)
   * Сarousel and slider for react - [react-slick](https://react-slick.neostack.com/)
+  * React [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) :dancers:
 * Debug
   * Access to local host - [Ngrok](https://ngrok.com/)
   * HTTP proxy / HTTP monitor [charles](https://www.charlesproxy.com/)
