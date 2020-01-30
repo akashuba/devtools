@@ -21,6 +21,8 @@
   * Check browsers support - [caniuse](https://caniuse.com/)
   * Caniuse for email - [caniemail](https://www.caniemail.com/)
   * Proxy servers - [hidemy.name](https://hidemy.name/ru/proxy-list/) :squirrel:
+  * Useful [regExp](https://proglib.io/p/33-regexp) :hammer:
+  * Yup email [regExp](https://gist.github.com/akashuba/8ff63ead726a306650f66659fca4f46b)
 * Books and articles
   * Addy Osmani - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
   * Kyle Simpson - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -28,5 +30,3 @@
  [SOLID in Rract](https://blog.usejournal.com/how-to-apply-solid-principles-in-react-applications-6c964091a982)
   * 13 useful JavaScript [array tips and tricks](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo)
   * Vadim Makeev [how to load fonts](https://htmlacademy.ru/blog/useful/css/short-14) About font-display.
-  * Useful [regExp](https://proglib.io/p/33-regexp) :hammer:
-  * Yup email [regExp](https://gist.github.com/akashuba/8ff63ead726a306650f66659fca4f46b)
