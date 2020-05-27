@@ -33,4 +33,4 @@
   * Vadim Makeev [how to load fonts](https://htmlacademy.ru/blog/useful/css/short-14) About font-display.
   
 * Assets
-  * Free vector [icons](https://www.flaticon.com/)
+  * Free vector [icons](https://www.flaticon.com/) 💅
