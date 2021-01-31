@@ -41,3 +41,4 @@
   
 * Utils
   * Node.js version management [n](https://www.npmjs.com/package/n)
+  * Analyze npm packages 📦 (size, versions, alternatives) [bundlephobia](https://bundlephobia.com/)
