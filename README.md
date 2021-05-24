@@ -44,3 +44,4 @@
   * Node.js version management [n](https://www.npmjs.com/package/n)
   * Analyze npm packages 📦 (size, versions, alternatives) [bundlephobia](https://bundlephobia.com/)
   * Typography normalizer [typo](https://www.artlebedev.ru/typograf/)
+  * Minimize svg [svgomg](https://jakearchibald.github.io/svgomg/)
