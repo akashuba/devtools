@@ -33,6 +33,7 @@
   * 13 useful JavaScript [array tips and tricks](https://dev.to/duomly/13-useful-javascript-array-tips-and-tricks-you-should-know-2jfo)
   * Vadim Makeev [how to load fonts](https://htmlacademy.ru/blog/useful/css/short-14) About font-display.
   * Auto fit element size by ratio [article](https://stackoverflow.com/questions/1495407/maintain-the-aspect-ratio-of-a-div-with-css)
+  * JS algorithms and data structures - [algorithms](https://github.com/trekhleb/javascript-algorithms)
   
 * Assets
   * Free vector [icons](https://www.flaticon.com/) 💅
