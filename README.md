@@ -9,6 +9,7 @@
   * Vanilla js decision for common frontend - [issues](https://github.com/phuoc-ng/html-dom) 🛠
   * Useful custom - [hooks](https://github.com/craig1123/react-recipes) 🥘
   * Сharts - [recharts](https://recharts.org/en-US/)
+  * Css loaders - [loaders](https://css-loaders.com)
 * Debug
   * Access to local host - [Ngrok](https://ngrok.com/)
   * HTTP proxy / HTTP monitor [charles](https://www.charlesproxy.com/)
