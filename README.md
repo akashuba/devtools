@@ -52,3 +52,4 @@
   * Docs compare [draftable](https://draftable.com/compare)
 * Services
   * A/B testing and feature toggle [growthbook](https://www.growthbook.io/)
+  * Temporary Email Address [tempMail](https://temp-mail.org/en/)
